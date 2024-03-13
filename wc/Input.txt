@@ -1,0 +1,7 @@
+Parameters:
+
+    path: It takes in relative path from the program to the text File. If both file and program are in the same folder, then simply give the file name of the text file.
+    Options: It is an optional parameter that specifies the data is to be read from the file. If nothing is passed, then the default raw buffer is returned.
+    Callback Function: It is the callback function that has further two arguments (err, data). If the operation fails to extract the data, the error shows what is the fault, and else data argument will contain the data from the file.
+20€
+Example: Suppose there is a file with the name Input.txt in the same folder as the JavaScript program.

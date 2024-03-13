@@ -1,0 +1,12 @@
+{
+  "name": "wc",
+  "version": "1.0.0",
+  "main": "ccwc.js",
+  "type": "module",
+  "description": "Create your own wc tool",
+  "bin": {
+    "ccwc": "./ccwc.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
